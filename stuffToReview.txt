@@ -1,0 +1,19 @@
+Fun reading: Eloquent Javascript
+
+Stuff to look into and make sure we know;
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Objects
+
+  1. What are the six basic data types in Javascript?
+
+  2. What is a function?
+
+  3. What is an object?
+
+  4. What is the difference between a function and a method? (kind of a trick question because technically a method is a function)
+
+  5. what are parameters(arguments, these are literally the exact same thing)?
+
+  6. What does it mean to store something in a variable?
+
+  7. How does scope work?
